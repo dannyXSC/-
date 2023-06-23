@@ -6,8 +6,41 @@ from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 
 base_url = "https://patentscope.wipo.int/search/en/result.jsf?query=IC:"
+# 进入初始search页面要等待的时间(s)
+BEGIN_SLEEP = 5
+# 每个子页面要等待的时间(s)
+EACH_SLEEP = 2
 
 
+# 入口
+def search(IPC_no, driver: WebDriver, output_path="./result.csv"):
+    """
+    用来获得search页面的信息，根据IPC号获得所有中国地区的信息
+    :param IPC_no: IPC号
+    :param driver: selenium的任意webdriver
+    :param output_path: 输出文件路径
+    :return:
+    """
+    url = "{}\"{}\"".format(base_url, IPC_no)
+    driver.get(url)
+    # 准备工作，设置中国地区
+    prepare(driver)
+    # 获得总的页数
+    totalPage = getPageNumber(driver)
+
+    infos = []
+    # 对于每一页
+    for i in range(totalPage):
+        print("cur:{}  total:{}".format(i, totalPage))
+        cur_page_infos = getPageInfo(driver)
+        infos.extend(cur_page_infos)
+        goto_next_page(driver)
+
+    output_path = output_path
+    output_csv([item.serialization() for item in infos], output_path)
+
+
+# 保存专利的信息
 class Pattern(object):
     def __init__(self, pattern_number="", title="", pubdate="", ipc="", appl_no="", applicant="", inventor=""):
         self.pattern_number = pattern_number
@@ -49,26 +82,9 @@ class Pattern(object):
                 "inventor": self.inventor}
 
 
-def search(IPC_no, driver: WebDriver, output_path="./result.csv"):
-    url = "{}\"{}\"".format(base_url, IPC_no)
-    driver.get(url)
-    prepare(driver)
-    totalPage = getPageNumber(driver)
-
-    infos = []
-    for i in range(totalPage):
-        print("cur:{}  total:{}".format(i, totalPage))
-        cur_page_infos = getPageInfo(driver)
-        infos.extend(cur_page_infos)
-        goto_next_page(driver)
-
-    output_path = output_path
-    output_csv([item.serialization() for item in infos], output_path)
-
-
 def goto_next_page(driver: WebDriver):
     driver.find_elements_by_class_name("chevron-right-icon")[0].click()
-    time.sleep(2)
+    time.sleep(EACH_SLEEP)
 
 
 def output_csv(dict_list: List[dict], output_path):
@@ -129,4 +145,4 @@ def prepare(driver: WebDriver):
         if item.text.find("Search") != -1:
             item.click()
             break
-    time.sleep(5)
+    time.sleep(BEGIN_SLEEP)

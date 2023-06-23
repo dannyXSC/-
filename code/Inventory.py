@@ -7,6 +7,27 @@ from selenium.webdriver.remote.webelement import WebElement
 category_url = "https://www.wipo.int/classifications/ipc/green-inventory/home"
 
 
+# 入口
+def get_info(driver: WebDriver, output_path="./result.txt"):
+    """
+    获得green-inventory的信息
+    :param output_path: 输出的路径
+    :param driver: selenium 的任意webdriver
+    :return:
+    """
+    driver.get(category_url)
+    inventory = Inventory()
+    body = driver.find_element_by_class_name("p-treetable-tbody")
+    get_all_children(element=body, inventory=inventory)
+
+    # 测试输出结果，可以根据需要转成csv
+    with open(output_path, 'w') as f:
+        def MyPrint(txt):
+            f.write(txt + '\n')
+
+        output(inventory=inventory, fun=MyPrint)
+
+
 class Inventory(object):
     def __init__(self, name="", children=None, IPC_list=None):
         self.name = name
@@ -26,6 +47,7 @@ class Inventory(object):
         pass
 
 
+# 用来获得每一个最小结构的信息
 class Cell(object):
     def __init__(self, element: WebElement):
         self.element = WebElement
@@ -60,20 +82,6 @@ class Cell(object):
 
     def to_Inventory(self) -> Inventory:
         return Inventory(name=self.name, IPC_list=self.IPC_list)
-
-
-# 入口
-def get_info(driver: WebDriver):
-    driver.get(category_url)
-    inventory = Inventory()
-    body = driver.find_element_by_class_name("p-treetable-tbody")
-    get_all_children(element=body, inventory=inventory)
-
-    with open("./result.txt", 'w') as f:
-        def MyPrint(txt):
-            f.write(txt + '\n')
-
-        output(inventory=inventory, fun=MyPrint)
 
 
 def get_all_children(element: WebElement, inventory: Inventory, begin=None, end=None):
