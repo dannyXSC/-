@@ -83,7 +83,9 @@ class Pattern(object):
 
 
 def goto_next_page(driver: WebDriver):
-    driver.find_elements_by_class_name("chevron-right-icon")[0].click()
+    element = driver.find_elements_by_class_name("chevron-right-icon")[0]
+    if element.is_enabled():
+        element.click()
     time.sleep(EACH_SLEEP)
 
 
