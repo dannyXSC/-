@@ -1,20 +1,38 @@
+import os
+
 from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
-from Inventory import get_info
+from Inventory import get_info, Inventory
 
 from Search import search
+from selenium.webdriver.remote.webdriver import WebDriver
+from selenium.webdriver.remote.webelement import WebElement
 
 # driver_path = "D:\\web_driver\\chromedriver\\chromedriver.exe"
 driver_path = "/Users/xiesicheng/Desktop/OpenSource/chromedriver/chromedriver"
 driver = webdriver.Chrome(executable_path=driver_path)
 
+save_root_path = ""
+
+
+def search_inventory(inv: Inventory, dri: WebDriver, pre_path=save_root_path):
+    cur_name = inv.name
+    cur_path = os.path.join(pre_path, cur_name)
+    if not os.path.exists(cur_path):
+        os.makedirs(cur_path)
+    for ipc in inv.IPC_list:
+        search(ipc, driver, os.path.join(cur_path, ipc + ".csv"))
+    for child in inv.children:
+        search_inventory(child, driver, cur_path)
+
+
 # driver = webdriver.Chrome()
 try:
     # # 获得所有的IPC号
-    # get_info(driver, "./IPC_result.txt")
+    inventory = get_info(driver, "./IPC_result.txt")
     # # 根据一个IPC号获得所有的信息
-    # search("F02C 3/28", driver, "F02C 3/28.csv")
+    search_inventory(inventory, driver)
     input()
 finally:
     driver.quit()

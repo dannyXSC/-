@@ -7,8 +7,27 @@ from selenium.webdriver.remote.webelement import WebElement
 category_url = "https://www.wipo.int/classifications/ipc/green-inventory/home"
 
 
+class Inventory(object):
+    def __init__(self, name="", children=None, IPC_list=None):
+        self.name = name
+        self.children = children if children is not None else []
+        self.IPC_list = IPC_list if IPC_list is not None else []
+
+    def set_name(self, name):
+        self.name = name
+
+    def add_child(self, child):
+        self.children.append(child)
+
+    def add_IPC(self, IPC_no):
+        self.IPC_list.append(IPC_no)
+
+    def serialize(self):
+        pass
+
+
 # 入口
-def get_info(driver: WebDriver, output_path="./result.txt"):
+def get_info(driver: WebDriver, output_path="./result.txt") -> Inventory:
     """
     获得green-inventory的信息
     :param output_path: 输出的路径
@@ -27,24 +46,7 @@ def get_info(driver: WebDriver, output_path="./result.txt"):
 
         output(inventory=inventory, fun=MyPrint)
 
-
-class Inventory(object):
-    def __init__(self, name="", children=None, IPC_list=None):
-        self.name = name
-        self.children = children if children is not None else []
-        self.IPC_list = IPC_list if IPC_list is not None else []
-
-    def set_name(self, name):
-        self.name = name
-
-    def add_child(self, child):
-        self.children.append(child)
-
-    def add_IPC(self, IPC_no):
-        self.IPC_list.append(IPC_no)
-
-    def serialize(self):
-        pass
+    return inventory
 
 
 # 用来获得每一个最小结构的信息
@@ -69,16 +71,22 @@ class Cell(object):
                     # 没有-，直接加入
                     self.IPC_list.append(IPC_begin + " " + no_text)
                 else:
-                    # 前缀
-                    no_prefix = no_text[:no_text.find("/")]
-                    no_remain = no_text.split("-")
-                    # 数字起始
-                    no_begin = int(no_remain[0][no_remain[0].find("/") + 1:])
-                    # 数字结尾
-                    no_end = int(no_remain[1][no_remain[1].find("/") + 1:])
-                    # 把所有的IPC加入
-                    for i in range(no_begin, no_end + 1):
-                        self.IPC_list.append("{} {}/{}".format(IPC_begin, no_prefix, i))
+                    # 前面的数字
+                    no_split = no_text.split("-")
+                    no_front = no_split[0]
+                    no_end = no_split[1]
+                    # 前
+                    no_front_prefix = int(no_front[:no_front.find("/")])
+                    no_front_remain = int(no_front[no_front.find("/") + 1:])
+                    # 后
+                    no_end_prefix = int(no_end[:no_end.find("/")])
+                    no_end_remain = int(no_end[no_end.find("/") + 1:])
+                    if no_end_prefix == no_front_prefix:
+                        for i in range(no_front_remain, no_end_remain + 1):
+                            self.IPC_list.append("{} {}/{}".format(IPC_begin, no_front_prefix, str(i).zfill(2)))
+                    else:
+                        for i in range(no_front_prefix, no_end_prefix + 1):
+                            self.IPC_list.append("{} {}/{}".format(IPC_begin, str(i), str(no_end_remain).zfill(2)))
 
     def to_Inventory(self) -> Inventory:
         return Inventory(name=self.name, IPC_list=self.IPC_list)
@@ -96,6 +104,10 @@ def get_all_children(element: WebElement, inventory: Inventory, begin=None, end=
         print("{} {} {}".format(inventory_item.name, inventory_item.IPC_list, len(inventory_item.children)))
 
 
+def iffolded(element: WebElement):
+    return element.find_elements_by_tag_name("button")[0].is_displayed()
+
+
 def unfold(element: WebElement, inventory: Inventory):
     category_list = element.find_elements_by_class_name("node-row")
     cell_list = [Cell(content) for content in category_list]
@@ -103,7 +115,8 @@ def unfold(element: WebElement, inventory: Inventory):
     for i in range(length):
         item = cell_list[i]
         if item.name == inventory.name:
-            category_list[i].find_elements_by_class_name("topic-data")[0].click()
+            if iffolded(category_list[i]):
+                category_list[i].find_elements_by_class_name("topic-data")[0].click()
             break
 
 
