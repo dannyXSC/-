@@ -105,7 +105,7 @@ def get_all_children(element: WebElement, inventory: Inventory, begin=None, end=
 
 
 def iffolded(element: WebElement):
-    return element.find_elements_by_tag_name("button")[0].is_displayed()
+    return element.find_elements_by_tag_name("button")[0].get_attribute("style").find("visible") != -1
 
 
 def unfold(element: WebElement, inventory: Inventory):
