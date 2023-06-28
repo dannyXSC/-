@@ -9,8 +9,8 @@ from Search import search
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 
-driver_path = "D:\\web_driver\\chromedriver\\chromedriver.exe"
-# driver_path = "/Users/xiesicheng/Desktop/OpenSource/chromedriver/chromedriver"
+# driver_path = "D:\\web_driver\\chromedriver\\chromedriver.exe"
+driver_path = "/Users/xiesicheng/Desktop/OpenSource/chromedriver/chromedriver"
 driver = webdriver.Chrome(executable_path=driver_path)
 
 save_root_path = "C:\\资源\\green"

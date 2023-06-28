@@ -9,7 +9,7 @@ base_url = "https://patentscope.wipo.int/search/en/result.jsf?query=IC:"
 # 进入初始search页面要等待的时间(s)
 BEGIN_SLEEP = 5
 # 每个子页面要等待的时间(s)
-EACH_SLEEP = 3
+EACH_SLEEP = 1
 
 
 # 入口
@@ -84,7 +84,7 @@ class Pattern(object):
 
 def goto_next_page(driver: WebDriver):
     element = driver.find_elements_by_class_name("chevron-right-icon")[0]
-    if element.is_enabled():
+    if is_loaded(driver):
         element.click()
     time.sleep(EACH_SLEEP)
 
@@ -148,3 +148,7 @@ def prepare(driver: WebDriver):
             item.click()
             break
     time.sleep(BEGIN_SLEEP)
+
+
+def is_loaded(driver: WebDriver):
+    return driver.find_element_by_id("pageBlockUI_blocker").is_displayed()
