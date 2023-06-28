@@ -9,11 +9,11 @@ from Search import search
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.remote.webelement import WebElement
 
-# driver_path = "D:\\web_driver\\chromedriver\\chromedriver.exe"
-driver_path = "/Users/xiesicheng/Desktop/OpenSource/chromedriver/chromedriver"
+driver_path = "D:\\web_driver\\chromedriver\\chromedriver.exe"
+# driver_path = "/Users/xiesicheng/Desktop/OpenSource/chromedriver/chromedriver"
 driver = webdriver.Chrome(executable_path=driver_path)
 
-save_root_path = ""
+save_root_path = "C:\\资源\\green"
 
 
 def search_inventory(inv: Inventory, dri: WebDriver, pre_path=save_root_path):
@@ -30,9 +30,12 @@ def search_inventory(inv: Inventory, dri: WebDriver, pre_path=save_root_path):
 # driver = webdriver.Chrome()
 try:
     # # 获得所有的IPC号
-    inventory = get_info(driver, "./IPC_result.txt")
+    # inventory = get_info(driver, "./IPC_result.txt")
     # # 根据一个IPC号获得所有的信息
-    search_inventory(inventory, driver)
+    # search_inventory(inventory, driver)
+    search('C10L 5/00', driver, os.path.join("1.csv"))
+    input()
+except Exception:
     input()
 finally:
     driver.quit()

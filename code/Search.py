@@ -9,7 +9,7 @@ base_url = "https://patentscope.wipo.int/search/en/result.jsf?query=IC:"
 # 进入初始search页面要等待的时间(s)
 BEGIN_SLEEP = 5
 # 每个子页面要等待的时间(s)
-EACH_SLEEP = 2
+EACH_SLEEP = 3
 
 
 # 入口
