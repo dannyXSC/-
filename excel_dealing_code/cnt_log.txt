@@ -1,0 +1,798 @@
+E:\绿色专利（房东）\2017\201710.xlsx,green_no:25236,total_no:240049
+E:\绿色专利（房东）\2017\201709.xlsx,green_no:29793,total_no:287588
+E:\绿色专利（房东）\2017\201711.xlsx,green_no:36239,total_no:343576
+E:\绿色专利（房东）\2017\201712.xlsx,green_no:47652,total_no:450346
+E:\绿色专利（房东）\2017\201707.xlsx,green_no:26376,total_no:254580
+E:\绿色专利（房东）\2017\201708.xlsx,green_no:28766,total_no:270991
+E:\绿色专利（房东）\2017\201706.xlsx,green_no:28012,total_no:272386
+E:\绿色专利（房东）\2017\201705.xlsx,green_no:24474,total_no:241538
+E:\绿色专利（房东）\2017\201704.xlsx,green_no:21916,total_no:209455
+E:\绿色专利（房东）\2017\201702.xlsx,green_no:13187,total_no:132573
+E:\绿色专利（房东）\2017\201701.xlsx,green_no:17199,total_no:168259
+E:\绿色专利（房东）\2017\201703.xlsx,green_no:23474,total_no:236416
+E:\绿色专利（房东）\incopat\2019\201910.xlsx,green_no:26475,total_no:253127
+E:\绿色专利（房东）\incopat\2019\201912.xlsx,green_no:37893,total_no:364492
+E:\绿色专利（房东）\incopat\2019\201911.xlsx,green_no:32456,total_no:302206
+E:\绿色专利（房东）\incopat\2019\201909.xlsx,green_no:31079,total_no:287766
+E:\绿色专利（房东）\incopat\2019\201908.xlsx,green_no:29043,total_no:270917
+E:\绿色专利（房东）\incopat\2019\201906.xlsx,green_no:25954,total_no:246580
+E:\绿色专利（房东）\incopat\2019\201905.xlsx,green_no:25970,total_no:250924
+E:\绿色专利（房东）\incopat\2019\201907.xlsx,green_no:30934,total_no:294008
+E:\绿色专利（房东）\incopat\2019\201903.xlsx,green_no:22855,total_no:221693
+E:\绿色专利（房东）\incopat\2019\201904.xlsx,green_no:26576,total_no:255912
+E:\绿色专利（房东）\incopat\2019\201902.xlsx,green_no:11484,total_no:110119
+E:\绿色专利（房东）\incopat\2019\201901.xlsx,green_no:24148,total_no:238302
+E:\绿色专利（房东）\incopat\2018\201810.xlsx,green_no:25714,total_no:248296
+E:\绿色专利（房东）\incopat\2018\201809.xlsx,green_no:29353,total_no:287438
+E:\绿色专利（房东）\incopat\2018\201811.xlsx,green_no:32962,total_no:318441
+E:\绿色专利（房东）\incopat\2018\201812.xlsx,green_no:41324,total_no:392754
+E:\绿色专利（房东）\incopat\2018\201808.xlsx,green_no:31044,total_no:303491
+E:\绿色专利（房东）\incopat\2018\201807.xlsx,green_no:29839,total_no:289562
+E:\绿色专利（房东）\incopat\2018\201806.xlsx,green_no:29097,total_no:282735
+E:\绿色专利（房东）\incopat\2018\201804.xlsx,green_no:27177,total_no:260638
+E:\绿色专利（房东）\incopat\2018\201805.xlsx,green_no:30685,total_no:297095
+E:\绿色专利（房东）\incopat\2018\201803.xlsx,green_no:25374,total_no:247584
+E:\绿色专利（房东）\incopat\2018\201802.xlsx,green_no:16653,total_no:162518
+E:\绿色专利（房东）\incopat\2018\201801.xlsx,green_no:23990,total_no:230506
+E:\绿色专利（房东）\incopat\2020\12\30.xls,green_no:1164,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\28.xls,green_no:1205,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\9.xls,green_no:976,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\8.xls,green_no:1187,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\32.xls,green_no:1167,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\27.xls,green_no:1170,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\6.xls,green_no:997,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\26.xls,green_no:1440,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\33.xls,green_no:1322,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\21.xls,green_no:935,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\7.xls,green_no:997,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\3.xls,green_no:1384,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\23.xls,green_no:930,total_no:8723
+E:\绿色专利（房东）\incopat\2020\12\5.xls,green_no:1097,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\40.xls,green_no:1239,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\41.xls,green_no:952,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\42.xls,green_no:927,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\29.xls,green_no:1041,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\17.xls,green_no:1108,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\24.xls,green_no:1148,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\25.xls,green_no:1336,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\4.xls,green_no:1232,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\37.xls,green_no:1042,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\39.xls,green_no:1172,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\38.xls,green_no:1042,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\36.xls,green_no:1005,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\22.xls,green_no:862,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\20.xls,green_no:1097,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\16.xls,green_no:875,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\18.xls,green_no:1147,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\19.xls,green_no:1170,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\35.xls,green_no:1172,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\34.xls,green_no:1307,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\2.xls,green_no:1258,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\31.xls,green_no:1210,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\14.xls,green_no:1282,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\13.xls,green_no:1357,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\11.xls,green_no:1104,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\12.xls,green_no:1156,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\15.xls,green_no:1218,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\10.xls,green_no:1262,total_no:10000
+E:\绿色专利（房东）\incopat\2020\12\1.xls,green_no:1216,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\3.xls,green_no:1250,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\31.xls,green_no:1344,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\7.xls,green_no:1045,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\8.xls,green_no:1153,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\30.xls,green_no:1120,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\26.xls,green_no:1004,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\9.xls,green_no:1100,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\25.xls,green_no:1123,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\19.xls,green_no:1155,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\29.xls,green_no:1143,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\41.xls,green_no:467,total_no:4159
+E:\绿色专利（房东）\incopat\2020\11\5.xls,green_no:939,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\28.xls,green_no:1188,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\40.xls,green_no:840,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\4.xls,green_no:1076,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\6.xls,green_no:1137,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\24.xls,green_no:1019,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\27.xls,green_no:1012,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\23.xls,green_no:1001,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\39.xls,green_no:941,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\22.xls,green_no:1125,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\38.xls,green_no:1012,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\37.xls,green_no:1207,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\2.xls,green_no:1284,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\36.xls,green_no:1135,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\35.xls,green_no:926,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\34.xls,green_no:958,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\21.xls,green_no:1338,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\33.xls,green_no:1012,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\32.xls,green_no:1080,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\20.xls,green_no:1271,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\18.xls,green_no:354,total_no:3130
+E:\绿色专利（房东）\incopat\2020\11\17.xls,green_no:873,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\16.xls,green_no:938,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\13.xls,green_no:950,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\14.xls,green_no:1194,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\12.xls,green_no:966,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\15.xls,green_no:1077,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\11.xls,green_no:1220,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\10.xls,green_no:1255,total_no:10000
+E:\绿色专利（房东）\incopat\2020\11\1.xls,green_no:1196,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\10.xls,green_no:1030,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\21.xls,green_no:914,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\20.xls,green_no:976,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\24.xls,green_no:1197,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\23.xls,green_no:1025,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\8.xls,green_no:1015,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\7.xls,green_no:993,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\11.xls,green_no:1023,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\17.xls,green_no:1310,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\9.xls,green_no:1262,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\19.xls,green_no:991,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\6.xls,green_no:1030,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\2.xls,green_no:1092,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\5.xls,green_no:1001,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\32.xls,green_no:973,total_no:9298
+E:\绿色专利（房东）\incopat\2020\10\18.xls,green_no:1014,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\16.xls,green_no:1276,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\31.xls,green_no:1140,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\4.xls,green_no:1370,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\30.xls,green_no:1136,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\15.xls,green_no:1117,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\12.xls,green_no:976,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\1.xls,green_no:1172,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\29.xls,green_no:764,total_no:7066
+E:\绿色专利（房东）\incopat\2020\10\14.xls,green_no:1076,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\28.xls,green_no:936,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\13.xls,green_no:1254,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\3.xls,green_no:1344,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\26.xls,green_no:977,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\27.xls,green_no:870,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\25.xls,green_no:917,total_no:10000
+E:\绿色专利（房东）\incopat\2020\10\22.xls,green_no:1030,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (2).xls,green_no:346,total_no:2889
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (15).xls,green_no:1281,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (14).xls,green_no:942,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (13).xls,green_no:980,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (11).xls,green_no:1254,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (12).xls,green_no:1089,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (10).xls,green_no:1027,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0916-0930\0916-0930 (1).xls,green_no:1206,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (15).xls,green_no:1181,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (1).xls,green_no:967,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (14).xls,green_no:1316,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (12).xls,green_no:1266,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (9).xls,green_no:1210,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (11).xls,green_no:1281,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (7).xls,green_no:1040,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (8).xls,green_no:1222,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (6).xls,green_no:1014,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (5).xls,green_no:1025,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (13).xls,green_no:1236,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (10).xls,green_no:1275,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (4).xls,green_no:1004,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (2).xls,green_no:1041,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (3).xls,green_no:992,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (19).xls,green_no:971,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (18).xls,green_no:988,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (17).xls,green_no:964,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\0901-0915\0901-0915 (16).xls,green_no:435,total_no:4140
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (20).xls,green_no:993,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (18).xls,green_no:1214,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (19).xls,green_no:1126,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (9).xls,green_no:940,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (17).xls,green_no:1192,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (16).xls,green_no:1134,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (8).xls,green_no:1140,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (7).xls,green_no:1411,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (5).xls,green_no:1021,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (6).xls,green_no:1171,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (4).xls,green_no:896,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (3).xls,green_no:910,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (25).xls,green_no:921,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (24).xls,green_no:1298,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (23).xls,green_no:1008,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (22).xls,green_no:960,total_no:10000
+E:\绿色专利（房东）\incopat\2020\09\09\0916-0930\0916-0930 (21).xls,green_no:1012,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (17).xls,green_no:1015,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (16).xls,green_no:1093,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (11).xls,green_no:1161,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (9).xls,green_no:1205,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (15).xls,green_no:1052,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (8).xls,green_no:1241,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (14).xls,green_no:1056,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (7).xls,green_no:1216,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (6).xls,green_no:1303,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (1).xls,green_no:859,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (13).xls,green_no:1166,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (5).xls,green_no:1309,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (12).xls,green_no:1087,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (3).xls,green_no:279,total_no:2520
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (4).xls,green_no:1135,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (7).xls,green_no:1218,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (6).xls,green_no:83,total_no:574
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (21).xls,green_no:911,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (10).xls,green_no:1229,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (2).xls,green_no:953,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (20).xls,green_no:969,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (19).xls,green_no:983,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (9).xls,green_no:1145,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (8).xls,green_no:1330,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0816-0831 (18).xls,green_no:1008,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (5).xls,green_no:953,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (4).xls,green_no:1006,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (3).xls,green_no:1029,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (17).xls,green_no:1092,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (16).xls,green_no:1182,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (2).xls,green_no:1276,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (15).xls,green_no:1238,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (14).xls,green_no:1240,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (11).xls,green_no:1108,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (12).xls,green_no:1076,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (10).xls,green_no:961,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (1).xls,green_no:904,total_no:10000
+E:\绿色专利（房东）\incopat\2020\08\0801-0815 (13).xls,green_no:1048,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\28.xls,green_no:1057,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\27.xls,green_no:1083,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\25.xls,green_no:1263,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\26.xls,green_no:1293,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\9.xls,green_no:1189,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\8.xls,green_no:1021,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\21.xls,green_no:1076,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\2.xls,green_no:1311,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\7.xls,green_no:1060,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\22.xls,green_no:1213,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\5.xls,green_no:1012,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\24.xls,green_no:818,total_no:7355
+E:\绿色专利（房东）\incopat\2020\06\6.xls,green_no:1191,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\23.xls,green_no:937,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\4.xls,green_no:1215,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\35.xls,green_no:342,total_no:3452
+E:\绿色专利（房东）\incopat\2020\06\37.xls,green_no:1015,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\20.xls,green_no:956,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\36.xls,green_no:1121,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\15.xls,green_no:1443,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\14.xls,green_no:1286,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\34.xls,green_no:1047,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\19.xls,green_no:953,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\33.xls,green_no:1104,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\32.xls,green_no:1266,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\18.xls,green_no:982,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\30.xls,green_no:1036,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\3.xls,green_no:1342,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\31.xls,green_no:1218,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\17.xls,green_no:966,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\16.xls,green_no:1215,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\29.xls,green_no:1141,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\13.xls,green_no:1094,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\12.xls,green_no:1192,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\11.xls,green_no:984,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\10.xls,green_no:922,total_no:10000
+E:\绿色专利（房东）\incopat\2020\06\1.xls,green_no:1221,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\22.xls,green_no:1380,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\23.xls,green_no:980,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\15.xls,green_no:1093,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\9.xls,green_no:1126,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\24.xls,green_no:1120,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\16.xls,green_no:922,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\20.xls,green_no:795,total_no:8002
+E:\绿色专利（房东）\incopat\2020\05\8.xls,green_no:863,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\21.xls,green_no:1248,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\7.xls,green_no:1125,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\6.xls,green_no:1039,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\4.xls,green_no:1005,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\5.xls,green_no:1203,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\10.xls,green_no:172,total_no:1625
+E:\绿色专利（房东）\incopat\2020\05\19.xls,green_no:1063,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\17.xls,green_no:989,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\2.xls,green_no:1272,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\34.xls,green_no:425,total_no:3846
+E:\绿色专利（房东）\incopat\2020\05\14.xls,green_no:1114,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\33.xls,green_no:1064,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\1.xls,green_no:1108,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\32.xls,green_no:1021,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\31.xls,green_no:963,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\30.xls,green_no:1092,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\18.xls,green_no:1058,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\3.xls,green_no:1262,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\13.xls,green_no:1223,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\12.xls,green_no:1224,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\29.xls,green_no:1229,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\11.xls,green_no:954,total_no:8375
+E:\绿色专利（房东）\incopat\2020\05\28.xls,green_no:1075,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\27.xls,green_no:1183,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\26.xls,green_no:956,total_no:10000
+E:\绿色专利（房东）\incopat\2020\05\25.xls,green_no:1162,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\19.xls,green_no:1098,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\26.xls,green_no:1121,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\24.xls,green_no:1215,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\25.xls,green_no:1284,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\22.xls,green_no:1188,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\8.xls,green_no:1015,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\9.xls,green_no:1038,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\14.xls,green_no:1267,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\20.xls,green_no:974,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\1.xls,green_no:1270,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\7.xls,green_no:1062,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\23.xls,green_no:1109,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\6.xls,green_no:1281,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\10.xls,green_no:405,total_no:4084
+E:\绿色专利（房东）\incopat\2020\04\35.xls,green_no:214,total_no:2031
+E:\绿色专利（房东）\incopat\2020\04\21.xls,green_no:1047,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\4.xls,green_no:1082,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\2.xls,green_no:1083,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\5.xls,green_no:1048,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\17.xls,green_no:1069,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\34.xls,green_no:913,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\13.xls,green_no:1358,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\32.xls,green_no:1094,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\33.xls,green_no:1040,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\11.xls,green_no:1171,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\18.xls,green_no:996,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\30.xls,green_no:913,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\31.xls,green_no:1116,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\16.xls,green_no:1227,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\15.xls,green_no:1000,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\3.xls,green_no:1120,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\29.xls,green_no:933,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\12.xls,green_no:1250,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\28.xls,green_no:1003,total_no:10000
+E:\绿色专利（房东）\incopat\2020\04\27.xls,green_no:1132,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\21.xls,green_no:1327,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\23.xls,green_no:978,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\15.xls,green_no:963,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\14.xls,green_no:942,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\9.xls,green_no:1055,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\11.xls,green_no:1180,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\8.xls,green_no:1032,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\19.xls,green_no:381,total_no:3279
+E:\绿色专利（房东）\incopat\2020\03\2.xls,green_no:1235,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\6.xls,green_no:1125,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\20.xls,green_no:1250,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\31.xls,green_no:553,total_no:5690
+E:\绿色专利（房东）\incopat\2020\03\7.xls,green_no:1223,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\4.xls,green_no:996,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\12.xls,green_no:1028,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\5.xls,green_no:1147,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\17.xls,green_no:1138,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\18.xls,green_no:924,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\10.xls,green_no:1121,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\1.xls,green_no:1198,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\30.xls,green_no:1069,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\16.xls,green_no:1067,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\3.xls,green_no:1171,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\29.xls,green_no:1080,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\27.xls,green_no:1146,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\13.xls,green_no:1045,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\26.xls,green_no:1196,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\28.xls,green_no:911,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\24.xls,green_no:1082,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\25.xls,green_no:1034,total_no:10000
+E:\绿色专利（房东）\incopat\2020\03\22.xls,green_no:1096,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\8.xls,green_no:1074,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\7.xls,green_no:1185,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\9.xls,green_no:1155,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\5.xls,green_no:1119,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\6.xls,green_no:1194,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\14.xls,green_no:228,total_no:1818
+E:\绿色专利（房东）\incopat\2020\02\4.xls,green_no:1259,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\2.xls,green_no:728,total_no:6763
+E:\绿色专利（房东）\incopat\2020\02\13.xls,green_no:1009,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\3.xls,green_no:1117,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\12.xls,green_no:1068,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\11.xls,green_no:1153,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\10.xls,green_no:1029,total_no:10000
+E:\绿色专利（房东）\incopat\2020\02\1.xls,green_no:1176,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\13.xls,green_no:1156,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\10.xls,green_no:1030,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\11.xls,green_no:910,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\9.xls,green_no:1143,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\12.xls,green_no:1007,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\1.xls,green_no:1154,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\8.xls,green_no:1098,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\7.xls,green_no:1079,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\22.xls,green_no:56,total_no:467
+E:\绿色专利（房东）\incopat\2020\01\5.xls,green_no:1111,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\6.xls,green_no:962,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\4.xls,green_no:869,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\3.xls,green_no:1029,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\2.xls,green_no:1117,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\19.xls,green_no:1036,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\21.xls,green_no:1008,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\20.xls,green_no:1008,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\18.xls,green_no:1047,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\16.xls,green_no:972,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\17.xls,green_no:1177,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\14.xls,green_no:939,total_no:10000
+E:\绿色专利（房东）\incopat\2020\01\15.xls,green_no:1124,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\14.xls,green_no:1012,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\1.xls,green_no:1163,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\13.xls,green_no:1236,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\12.xls,green_no:1390,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\11.xls,green_no:1065,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\6.xls,green_no:1086,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\8.xls,green_no:1039,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\7.xls,green_no:1174,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\9.xls,green_no:1054,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\10.xls,green_no:1300,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\5.xls,green_no:985,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\3.xls,green_no:1050,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\4.xls,green_no:1282,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\21.xls,green_no:936,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\20.xls,green_no:974,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\22.xls,green_no:482,total_no:4721
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\2.xls,green_no:1288,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\18.xls,green_no:1179,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\19.xls,green_no:1023,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\17.xls,green_no:1200,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\16.xls,green_no:905,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0716-0731\15.xls,green_no:1005,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\7.xls,green_no:870,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\8.xls,green_no:1247,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\9.xls,green_no:1126,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\6.xls,green_no:1549,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\4.xls,green_no:1580,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\18.xls,green_no:230,total_no:2281
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\5.xls,green_no:832,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\3.xls,green_no:1549,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\2.xls,green_no:1292,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\17.xls,green_no:972,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\16.xls,green_no:1013,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\14.xls,green_no:1181,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\13.xls,green_no:977,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\15.xls,green_no:1055,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\12.xls,green_no:1054,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\11.xls,green_no:1145,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\10.xls,green_no:1218,total_no:10000
+E:\绿色专利（房东）\incopat\2020\07\0701-0715\1.xls,green_no:1230,total_no:10000
+E:\绿色专利（房东）\2016\2016\201601.xlsx,green_no:17927,total_no:180863
+E:\绿色专利（房东）\2016\2016\201601_keyword.xlsx,green_no:645,total_no:8577
+E:\绿色专利（房东）\2016\2016\201602.xlsx,green_no:10983,total_no:110137
+E:\绿色专利（房东）\2016\2016\201602_keyword.xlsx,green_no:463,total_no:5264
+E:\绿色专利（房东）\2016\2016\201603.xlsx,green_no:21351,total_no:211674
+E:\绿色专利（房东）\2016\2016\201603_keyword.xlsx,green_no:757,total_no:9663
+E:\绿色专利（房东）\2016\2016\201604.xlsx,green_no:20078,total_no:203638
+E:\绿色专利（房东）\2016\2016\201604_keyword.xlsx,green_no:864,total_no:9551
+E:\绿色专利（房东）\2016\2016\201605.xlsx,green_no:21612,total_no:220177
+E:\绿色专利（房东）\2016\2016\201605_keyword.xlsx,green_no:852,total_no:11024
+E:\绿色专利（房东）\2016\2016\201606.xlsx,green_no:25721,total_no:269930
+E:\绿色专利（房东）\2016\2016\201606_keyword.xlsx,green_no:1090,total_no:12674
+E:\绿色专利（房东）\2016\2016\201607.xlsx,green_no:22542,total_no:232980
+E:\绿色专利（房东）\2016\2016\201607_keyword.xlsx,green_no:886,total_no:11605
+E:\绿色专利（房东）\2016\2016\201608.xlsx,green_no:28763,total_no:300000
+E:\绿色专利（房东）\2016\2016\201608_keyword.xlsx,green_no:1214,total_no:15418
+E:\绿色专利（房东）\2016\2016\201609.xlsx,green_no:15469,total_no:145935
+E:\绿色专利（房东）\2016\2016\201609_keyword.xlsx,green_no:788,total_no:10448
+E:\绿色专利（房东）\2016\2016\201610.xlsx,green_no:16489,total_no:155764
+E:\绿色专利（房东）\2016\2016\201610_keyword.xlsx,green_no:1252,total_no:10343
+E:\绿色专利（房东）\2016\2016\201611.xlsx,green_no:25553,total_no:250038
+E:\绿色专利（房东）\2016\2016\201611_keyword.xlsx,green_no:1376,total_no:12702
+E:\绿色专利（房东）\2016\2016\201612.xlsx,green_no:30261,total_no:300000
+E:\绿色专利（房东）\2016\2016\201612_keyword.xlsx,green_no:1554,total_no:15913
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (17).xls,green_no:729,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (18).xls,green_no:771,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (19).xls,green_no:615,total_no:7804
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17.xls,green_no:527,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (8).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (9).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (10).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (11).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-16 (12).xls,green_no:383,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (1).xls,green_no:636,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (2).xls,green_no:652,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (3).xls,green_no:617,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (4).xls,green_no:632,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (5).xls,green_no:693,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (6).xls,green_no:660,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (7).xls,green_no:754,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (8).xls,green_no:722,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (9).xls,green_no:793,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (10).xls,green_no:627,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (11).xls,green_no:743,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (12).xls,green_no:757,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (13).xls,green_no:774,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (14).xls,green_no:727,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (15).xls,green_no:741,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2003\2020-05-17 (16).xls,green_no:735,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (6).xls,green_no:551,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08 (7).xls,green_no:634,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-08.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (1).xls,green_no:657,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (10).xls,green_no:755,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (2).xls,green_no:629,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (3).xls,green_no:662,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (4).xls,green_no:678,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (5).xls,green_no:619,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (6).xls,green_no:772,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (7).xls,green_no:739,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (8).xls,green_no:712,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11 (9).xls,green_no:771,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-11.xls,green_no:621,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13 (2).xls,green_no:171,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13 (3).xls,green_no:659,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13 (4).xls,green_no:723,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13 (5).xls,green_no:720,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13 (6).xls,green_no:758,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-13.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-14 (1).xls,green_no:774,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-14 (2).xls,green_no:452,total_no:5516
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2004\2004\2020-04-14.xls,green_no:743,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (10).xls,green_no:808,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (11).xls,green_no:826,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (12).xls,green_no:48,total_no:569
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (13).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (14).xls,green_no:764,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (7).xls,green_no:745,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (8).xls,green_no:759,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23 (9).xls,green_no:741,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-23.xls,green_no:745,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (1).xls,green_no:757,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (10).xls,green_no:692,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (11).xls,green_no:611,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (12).xls,green_no:680,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (13).xls,green_no:91,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (14).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (15).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (16).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (17).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (18).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (19).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (2).xls,green_no:765,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (3).xls,green_no:787,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (4).xls,green_no:735,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (5).xls,green_no:725,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (6).xls,green_no:706,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (7).xls,green_no:798,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (8).xls,green_no:731,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30 (9).xls,green_no:650,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-30.xls,green_no:849,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-309-12 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-309-12 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-309-12 (3).xls,green_no:507,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-309-12 (4).xls,green_no:663,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-03-309-12.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03 (1).xls,green_no:747,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03 (2).xls,green_no:784,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03 (3).xls,green_no:825,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03 (4).xls,green_no:877,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03 (5).xls,green_no:855,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03 (6).xls,green_no:591,total_no:6799
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2005\2005\2020-04-03.xls,green_no:744,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14 (4).xls,green_no:36,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14 (5).xls,green_no:638,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14 (6).xls,green_no:629,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-14.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-15 (1).xls,green_no:729,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-15 (2).xls,green_no:829,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-15 (3).xls,green_no:759,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-15.xls,green_no:628,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (1).xls,green_no:804,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (10).xls,green_no:471,total_no:5594
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (2).xls,green_no:744,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (3).xls,green_no:857,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (4).xls,green_no:833,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (5).xls,green_no:880,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (6).xls,green_no:880,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (7).xls,green_no:872,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (8).xls,green_no:840,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18 (9).xls,green_no:873,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-18.xls,green_no:708,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (10).xls,green_no:636,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (11).xls,green_no:779,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (12).xls,green_no:701,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (13).xls,green_no:726,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (14).xls,green_no:936,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (15).xls,green_no:831,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (16).xls,green_no:809,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (17).xls,green_no:814,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (18).xls,green_no:857,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (19).xls,green_no:879,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (20).xls,green_no:846,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (21).xls,green_no:890,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (22).xls,green_no:858,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (23).xls,green_no:818,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (24).xls,green_no:907,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (25).xls,green_no:867,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (26).xls,green_no:332,total_no:3668
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (6).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (7).xls,green_no:60,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (8).xls,green_no:673,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22 (9).xls,green_no:666,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2006\2006\2020-04-22.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (10).xls,green_no:707,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (6).xls,green_no:114,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (7).xls,green_no:677,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (8).xls,green_no:625,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23 (9).xls,green_no:689,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-23.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (1).xls,green_no:894,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (10).xls,green_no:965,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (11).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (2).xls,green_no:919,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (3).xls,green_no:862,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (4).xls,green_no:831,total_no:9999
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (5).xls,green_no:910,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (6).xls,green_no:967,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (7).xls,green_no:941,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (8).xls,green_no:988,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25 (9).xls,green_no:962,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-25.xls,green_no:744,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (10).xls,green_no:703,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (11).xls,green_no:738,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (12).xls,green_no:727,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (13).xls,green_no:758,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (14).xls,green_no:775,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (15).xls,green_no:936,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (16).xls,green_no:843,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (17).xls,green_no:835,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (18).xls,green_no:883,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (19).xls,green_no:849,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (20).xls,green_no:875,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (21).xls,green_no:894,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (22).xls,green_no:804,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (23).xls,green_no:890,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (24).xls,green_no:861,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (25).xls,green_no:899,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (26).xls,green_no:896,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (6).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (7).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (8).xls,green_no:336,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26 (9).xls,green_no:675,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2007\2007\2020-04-26.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (10).xls,green_no:716,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (11).xls,green_no:762,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (12).xls,green_no:840,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (13).xls,green_no:937,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (14).xls,green_no:951,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (15).xls,green_no:866,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (16).xls,green_no:885,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (17).xls,green_no:868,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (18).xls,green_no:1021,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (19).xls,green_no:1021,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (20).xls,green_no:1023,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (21).xls,green_no:943,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (6).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (7).xls,green_no:13,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (8).xls,green_no:701,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27 (9).xls,green_no:817,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-27.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (1).xls,green_no:967,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (10).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (11).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (12).xls,green_no:269,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (13).xls,green_no:701,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (14).xls,green_no:740,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (15).xls,green_no:734,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (16).xls,green_no:813,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (17).xls,green_no:826,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (18).xls,green_no:902,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (19).xls,green_no:887,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (2).xls,green_no:998,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (20).xls,green_no:971,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (21).xls,green_no:915,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (22).xls,green_no:919,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (23).xls,green_no:888,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (24).xls,green_no:1000,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (25).xls,green_no:960,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (26).xls,green_no:988,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (3).xls,green_no:979,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (4).xls,green_no:968,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (6).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (7).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (8).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28 (9).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-28.xls,green_no:963,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-29 (1).xls,green_no:243,total_no:2333
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-29 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-29 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-29.xls,green_no:982,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (10).xls,green_no:934,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (11).xls,green_no:987,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (13).xls,green_no:136,total_no:1529
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (2).xls,green_no:537,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (3).xls,green_no:761,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (4).xls,green_no:760,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (5).xls,green_no:890,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (6).xls,green_no:850,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (7).xls,green_no:850,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (8).xls,green_no:866,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30 (9).xls,green_no:898,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2008\2008\2020-04-30.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-04-30.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-01 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-01 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-01 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-01 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-01 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-01.xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-02 (1).xls,green_no:792,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-02 (2).xls,green_no:774,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-02 (3).xls,green_no:97,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-02 (4).xls,green_no:778,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-02.xls,green_no:249,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (1).xls,green_no:793,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (10).xls,green_no:1064,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (11).xls,green_no:1041,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (2).xls,green_no:968,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (3).xls,green_no:1004,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (4).xls,green_no:983,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (5).xls,green_no:978,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (6).xls,green_no:975,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (7).xls,green_no:979,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (8).xls,green_no:1005,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03 (9).xls,green_no:1041,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-03.xls,green_no:821,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (2).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (3).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (4).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (5).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (6).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (7).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-04 (8).xls,green_no:332,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (1).xls,green_no:790,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (10).xls,green_no:939,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (11).xls,green_no:1000,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (12).xls,green_no:1038,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (13).xls,green_no:1104,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (14).xls,green_no:995,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (15).xls,green_no:1072,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (16).xls,green_no:718,total_no:6548
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (17).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (18).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (19).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (2).xls,green_no:757,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (20).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (21).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (22).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (3).xls,green_no:802,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (4).xls,green_no:873,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (5).xls,green_no:908,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (6).xls,green_no:796,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (7).xls,green_no:1014,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (8).xls,green_no:921,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06 (9).xls,green_no:1030,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-06.xls,green_no:827,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (1).xls,green_no:0,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (10).xls,green_no:912,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (11).xls,green_no:902,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (12).xls,green_no:949,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (13).xls,green_no:939,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (14).xls,green_no:1000,total_no:10000
+E:\绿色专利（房东）\2003-2011专利\专利网数据\2009\2009\2020-05-07 (15).xls,green_no:872,total_no:10000
+E:\绿色专利（房东）\2012-2015专利\2012\04\1.xls,green_no:700,total_no:10000
+E:\绿色专利（房东）\2012-2015专利\2012\04\10.xls,green_no:594,total_no:10000
