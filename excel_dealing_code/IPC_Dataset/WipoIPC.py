@@ -1,5 +1,5 @@
 import json
-from GlobalVariable import wipo_json_path
+from environment import wipo_json_path
 
 IPC_info = []
 

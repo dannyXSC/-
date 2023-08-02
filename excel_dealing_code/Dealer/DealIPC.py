@@ -1,5 +1,4 @@
-from GreenIPC import IPC_list_to_index_list as Green_IPC_list_to_index_list
-from WipoIPC import IPC_list_to_index_list as Wipo_IPC_list_to_index_list
+from IPC_Dataset.WipoIPC import IPC_list_to_index_list as Wipo_IPC_list_to_index_list
 
 
 def deal_ipc(str_ipc_list: str):

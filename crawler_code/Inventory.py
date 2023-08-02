@@ -87,7 +87,8 @@ class Cell(object):
                     no_remain = int(no_text.split('/')[1])
                     if no_remain == 0:
                         for i in range(1000):
-                            self.IPC_list.append(IPC_begin + " {}/{}".format(no_prefix, self.int_to_str(i)))
+                            self.IPC_list.append(
+                                IPC_begin + " {}/{}".format(str(no_prefix).zfill(2), self.int_to_str(i)))
                     else:
                         # 没有-，直接加入
                         self.IPC_list.append(IPC_begin + " " + no_text)
@@ -105,7 +106,8 @@ class Cell(object):
                     no_end_remain = int(no_end[no_end.find("/") + 1:])
                     no_end_remain = no_end_remain * 10 if no_end_remain < 100 else no_end_remain
                     for i in range(no_front_prefix * 1000 + no_front_remain, no_end_prefix * 1000 + no_end_remain + 1):
-                        self.IPC_list.append("{} {}/{}".format(IPC_begin, i / 1000, self.int_to_str(i % 1000)))
+                        self.IPC_list.append(
+                            "{} {}/{}".format(IPC_begin, str(i // 1000).zfill(2), self.int_to_str(i % 1000)))
                     # if no_end_prefix == no_front_prefix:
                     #     for i in range(no_front_remain, no_end_remain + 1):
                     #         self.IPC_list.append("{} {}/{}".format(IPC_begin, no_front_prefix, str(i).zfill(2)))

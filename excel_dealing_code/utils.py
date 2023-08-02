@@ -1,8 +1,16 @@
 import csv
 import os
 
+from environment import LOG_file
+
 
 def list_dict_to_csv(path, list_dict, if_delete=False):
+    # 做处理，去除\t \n
+    for dictionary in list_dict:
+        for key, value in dictionary.items():
+            if type(value) is str:
+                dictionary[key] = value.replace("\t", "").replace("\n", "")
+
     if (not os.path.exists(path)) or (if_delete is True):
         list_dict_create_csv(path, list_dict)
     else:
@@ -34,7 +42,7 @@ def MY_DEBUG(txt):
         print(txt)
 
 
-def LOG(txt, path="./log.txt"):
+def LOG(txt, path=LOG_file):
     with open(path, "a") as f:
         f.write(txt + "\n")
 
